@@ -3,72 +3,72 @@
     {
       "name": "AstraRus",
       "team": "Mercedes",
-      "positions": []
+      "positions": [12]
     },
     {
       "name": "Avokado",
       "team": "McLaren",
-      "positions": []
+      "positions": [14]
     },
     {
       "name": "BeHa",
       "team": "Ferrari",
-      "positions": []
+      "positions": [3]
     },
     {
       "name": "Bublick",
       "team": "Visa-CARB",
-      "positions": []
+      "positions": [1]
     },
     {
       "name": "Danilus",
       "team": "Aston Martin",
-      "positions": []
+      "positions": [13]
     },
     {
       "name": "Forader",
       "team": "Aston Martin",
-      "positions": []
+      "positions": [4]
     },
     {
       "name": "Forest",
       "team": "Williams",
-      "positions": []
+      "positions": [5]
     },
     {
       "name": "Guenther",
       "team": "Mercedes",
-      "positions": []
+      "positions": [6]
     },
     {
       "name": "onesecxnd",
       "team": "Ferrari",
-      "positions": []
+      "positions": [2]
     },
     {
       "name": "Orrin",
       "team": "RedBull",
-      "positions": []
+      "positions": [7]
     },
     {
       "name": "quvelix",
       "team": "Visa-CARB",
-      "positions": []
+      "positions": [8]
     },
     {
       "name": "takaruuu",
       "team": "RedBull",
-      "positions": []
+      "positions": [9]
     },
     {
       "name": "t0mato",
       "team": "McLaren",
-      "positions": []
+      "positions": [11]
     },
     {
       "name": "kasaletka",
       "team": "Williams",
-      "positions": []
+      "positions": [10]
     }
   ]
 }
