@@ -3,12 +3,12 @@
     {
       "name": "AstraRus",
       "team": "Mercedes",
-      "positions": []
+      "positions": [8, 10, 1, 3]
     },
     {
       "name": "Avokado",
       "team": "McLaren",
-      "positions": []
+      "positions": [1, 2, 7, 6]
     },
     {
       "name": "BeHa",
