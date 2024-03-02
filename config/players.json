@@ -13,7 +13,7 @@
     {
       "name": "BeHa",
       "team": "Ferrari",
-      "positions": []
+      "positions": [2, 3, 1]
     },
     {
       "name": "Bublick",
@@ -38,12 +38,12 @@
     {
       "name": "Guenther",
       "team": "Mercedes",
-      "positions": []
+      "positions": [10, 10, 1]
     },
     {
       "name": "onesecxnd",
       "team": "Ferrari",
-      "positions": []
+      "positions": [3, 6, 8]
     },
     {
       "name": "Orrin",
