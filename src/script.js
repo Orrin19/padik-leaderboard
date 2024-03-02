@@ -215,7 +215,7 @@ function generateTeamsTable(teamsData, playersData, stages) {
     }
 
     let tr = document.createElement('tr');
-    for (let j = 0; j < stages.length + 4; j++) {
+    for (let j = 0; j < stages.length + 3; j++) {
       let td = document.createElement('td');
       switch (j) {
         case 0:
@@ -229,9 +229,6 @@ function generateTeamsTable(teamsData, playersData, stages) {
           td.rowSpan = 2;
           break;
         case stages.length + 2:
-          td.innerText = teamsData[i - 1].players[0].totalPoints;
-          break;
-        case stages.length + 3:
           td.innerText = round(teamsData[i - 1].totalPoints);
           td.rowSpan = 2;
           break;
@@ -262,12 +259,9 @@ function generateTeamsTable(teamsData, playersData, stages) {
     table.appendChild(tr);
 
     let tr2 = document.createElement('tr');
-    for (let j = 0; j < stages.length + 1; j++) {
+    for (let j = 0; j < stages.length; j++) {
       let td = document.createElement('td');
       switch (j) {
-        case stages.length:
-          td.innerText = teamsData[i - 1].players[1].totalPoints;
-          break;
         default:
           td.innerText =
             teamsData[i - 1].players[1].points[j] == undefined

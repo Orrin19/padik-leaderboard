@@ -3,17 +3,17 @@
     {
       "name": "AstraRus",
       "team": "Mercedes",
-      "positions": [8, 10, 1, 3]
+      "positions": []
     },
     {
       "name": "Avokado",
       "team": "McLaren",
-      "positions": [1, 2, 7, 6]
+      "positions": []
     },
     {
       "name": "BeHa",
       "team": "Ferrari",
-      "positions": [2, 3, 1]
+      "positions": []
     },
     {
       "name": "Bublick",
@@ -38,12 +38,12 @@
     {
       "name": "Guenther",
       "team": "Mercedes",
-      "positions": [10, 10, 1]
+      "positions": []
     },
     {
       "name": "onesecxnd",
       "team": "Ferrari",
-      "positions": [3, 6, 8]
+      "positions": []
     },
     {
       "name": "Orrin",
