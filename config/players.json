@@ -48,27 +48,36 @@
     {
       "name": "Orrin",
       "team": "RedBull",
-      "positions": [7]
+      "positions": [8]
     },
     {
       "name": "quvelix",
       "team": "Visa-CARB",
-      "positions": [8]
+      "positions": [9]
     },
     {
       "name": "takaruuu",
       "team": "RedBull",
-      "positions": [9]
+      "positions": [10]
     },
     {
       "name": "t0mato",
       "team": "McLaren",
-      "positions": [11]
+      "positions": [12]
     },
     {
       "name": "kasaletka",
       "team": "Williams",
-      "positions": [10]
+      "positions": [11]
+    }
+    {
+      "name": "Keyboard",
+      "team": "Kick Sauber",
+      "positions": [16]
+    },{
+      "name": "nered3v",
+      "team": "Kick Sauber",
+      "positions": [7]
     }
   ]
 }
