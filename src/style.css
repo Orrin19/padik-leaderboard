@@ -23,6 +23,10 @@ body {
   .table {
     margin-inline: 1rem;
   }
+
+  h1 {
+    font-size: 2rem;
+  }
 }
 
 body,
