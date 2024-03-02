@@ -1,0 +1,163 @@
+@font-face {
+  font-family: 'F1';
+  src: url('../assets/Formula1-Regular-1.ttf');
+}
+
+body {
+  background: #1c0043;
+  color: white;
+  font-family: 'F1', sans-serif;
+  font-size: 10pt;
+  font-weight: 300;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 16pt;
+  }
+
+  ::-webkit-scrollbar {
+    width: 0;
+  }
+
+  .table {
+    margin-inline: 1rem;
+  }
+}
+
+body,
+body * {
+  box-sizing: border-box;
+  margin: 0;
+  overflow-x: hidden;
+  padding: 0;
+  user-select: none;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(132, 80, 139);
+  box-shadow: inset 0 0 3px black;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #754f98;
+}
+
+::-webkit-scrollbar-track {
+  background: #1c0043;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 8rem);
+  overflow: auto;
+  width: 100vw;
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+  margin-block: 2rem 3rem;
+  width: 100%;
+}
+
+.table {
+  background: linear-gradient(135deg, #f7f7f74c, #f0f0f01c);
+  border-radius: 0.5rem;
+  border-spacing: 0.8rem;
+  box-shadow: 0 1px 3px #c1c1c1, 0 1px 2px rgba(0, 0, 0, 0.24);
+  margin: 0 auto;
+  max-width: 1800px;
+}
+
+.table__head {
+  height: 1.5rem;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.table__head--centered {
+  text-align: center;
+}
+
+.table__stage {
+  border-radius: 0.2rem;
+  color: white;
+  padding: 0.2rem;
+  font-weight: 500;
+  text-align: center;
+  text-shadow: 0 0 1px rgb(27, 0, 40);
+}
+
+.table__stage--gold {
+  background-color: goldenrod;
+}
+
+.table__stage--silver {
+  background-color: rgb(99, 99, 99);
+}
+
+.table__stage--bronze {
+  background-color: #cd7f32;
+}
+
+.table__stage--points {
+  background-color: #4e78af4e;
+}
+
+.table__points {
+  text-align: center;
+}
+
+.table__team > div {
+  display: inline-block;
+  vertical-align: middle;
+  height: 2.5em;
+}
+
+.table__team::before {
+  background-size: cover;
+  content: '';
+  display: inline-block;
+  margin-right: 0.5em;
+  height: 2.5em;
+  position: relative;
+  top: 0.3em;
+  width: 2.5em;
+}
+
+#aston-martin::before {
+  background-image: url('../assets/aston-martin.png');
+}
+
+#ferrari::before {
+  background-image: url('../assets/ferrari.png');
+}
+
+#mclaren::before {
+  background-image: url('../assets/mclaren.png');
+}
+
+#mercedes::before {
+  background-image: url('../assets/mercedes.png');
+}
+
+#redbull::before {
+  background-image: url('../assets/redbull.png');
+}
+
+#visa-carb::before {
+  background-image: url('../assets/visa-carb.png');
+}
+
+#williams::before {
+  background-image: url('../assets/williams.png');
+}
