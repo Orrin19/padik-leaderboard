@@ -230,6 +230,7 @@ function generateTeamsTable(teamsData, playersData, stages) {
           break;
         case stages.length + 2:
           td.innerText = round(teamsData[i - 1].totalPoints);
+          td.classList.add('table__points');
           td.rowSpan = 2;
           break;
         default:
