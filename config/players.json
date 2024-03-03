@@ -41,6 +41,16 @@
       "positions": [6]
     },
     {
+      "name": "Keyboard",
+      "team": "Kick Sauber",
+      "positions": [16]
+    },
+    {
+      "name": "nered3v",
+      "team": "Kick Sauber",
+      "positions": [7]
+    },
+    {
       "name": "onesecxnd",
       "team": "Ferrari",
       "positions": [2]
@@ -69,6 +79,6 @@
       "name": "kasaletka",
       "team": "Williams",
       "positions": [11]
-    }  
+    }
   ]
 }
