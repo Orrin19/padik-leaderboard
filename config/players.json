@@ -3,82 +3,82 @@
     {
       "name": "AstraRus",
       "team": "Mercedes",
-      "positions": [12, 11]
+      "positions": [12, 11, 12]
     },
     {
       "name": "Avokado",
       "team": "McLaren",
-      "positions": [14, 16]
+      "positions": [14, 16, 13]
     },
     {
       "name": "BeHa",
       "team": "Ferrari",
-      "positions": [3, 2]
+      "positions": [3, 2, 7]
     },
     {
       "name": "Bublick",
       "team": "Visa-CARB",
-      "positions": [1, 4]
+      "positions": [1, 4, 4]
     },
     {
       "name": "Danilus",
       "team": "Aston Martin",
-      "positions": [13, 15]
+      "positions": [13, 15, 14]
     },
     {
       "name": "Forader",
       "team": "Aston Martin",
-      "positions": [4, 1]
+      "positions": [4, 1, 15]
     },
     {
       "name": "Forest",
       "team": "Williams",
-      "positions": [5, 3]
+      "positions": [5, 3, 8]
     },
     {
       "name": "Guenther",
       "team": "Mercedes",
-      "positions": [6, 4]
+      "positions": [6, 4, 1]
     },
     {
       "name": "Keyboard",
       "team": "Kick Sauber",
-      "positions": [16, 13]
+      "positions": [16, 13, 4]
     },
     {
       "name": "nered3v",
       "team": "Kick Sauber",
-      "positions": [7, 8]
+      "positions": [7, 8, 3]
     },
     {
       "name": "onesecxnd",
       "team": "Ferrari",
-      "positions": [2, 6]
+      "positions": [2, 6, 6]
     },
     {
       "name": "Orrin",
       "team": "RedBull",
-      "positions": [8, 7]
+      "positions": [8, 7, 2]
     },
     {
       "name": "quvelix",
       "team": "Visa-CARB",
-      "positions": [9, 8]
+      "positions": [9, 8, 10]
     },
     {
       "name": "takaruuu",
       "team": "RedBull",
-      "positions": [10, 12]
+      "positions": [10, 12, 9]
     },
     {
       "name": "t0mato",
       "team": "McLaren",
-      "positions": [12, 14]
+      "positions": [12, 14, 16]
     },
     {
       "name": "kasaletka",
       "team": "Williams",
-      "positions": [11, 10]
+      "positions": [11, 10, 11]
     }
   ]
 }
