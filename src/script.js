@@ -132,6 +132,12 @@ function handleData(data) {
 function updateTable(playersData) {
   for (let i = 0; i < playersData.length; i++) {
     document.getElementById(`player-${i + 1}`).innerText = playersData[i].name;
+    document
+      .getElementById(`player-${i + 1}`)
+      .classList.add(
+        'player',
+        `player--${playersData[i].team.toLowerCase().split(' ').join('-')}`
+      );
     document.getElementById(`points-${i + 1}`).innerText =
       playersData[i].totalPoints;
     for (let j = 0; j < playersData[i].points.length; j++) {

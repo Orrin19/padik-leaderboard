@@ -4,10 +4,10 @@
 }
 
 body {
-  background: #1c0043;
+  background: #591e29;
   color: white;
   font-family: 'F1', sans-serif;
-  font-size: 10pt;
+  font-size: 9pt;
   font-weight: bold !important;
 }
 
@@ -47,48 +47,42 @@ body * {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgb(132, 80, 139);
+  background: #752e3b;
   box-shadow: inset 0 0 3px black;
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #754f98;
+  background: #60222d;
 }
 
 ::-webkit-scrollbar-track {
-  background: #1c0043;
+  background: #361118;
 }
 
 .container {
   align-items: center;
   display: flex;
   flex-direction: column;
-  height: calc(100vh - 6rem);
+  justify-content: center;
+  height: 100vh;
   overflow: auto;
   width: 100vw;
 }
 
-h1 {
-  font-size: 3rem;
-  text-align: center;
-  text-transform: uppercase;
-  margin-block: 1.5rem;
-  width: 100%;
-}
-
 .table {
-  background: linear-gradient(135deg, #f7f7f74c, #f0f0f01c);
+  background: #361118;
   border-radius: 0.5rem;
   border-spacing: 0.8rem;
-  box-shadow: 0 1px 3px #c1c1c1, 0 1px 2px rgba(0, 0, 0, 0.24);
   margin: 0 auto;
   max-width: 1800px;
+  font-style: italic;
 }
 
 .table__head {
   font-size: 1.2em;
   height: 1.5rem;
+  padding-inline: 0.2rem;
   text-align: left;
   text-transform: uppercase;
 }
@@ -106,11 +100,11 @@ h1 {
 }
 
 .table__stage--gold {
-  background-color: goldenrod;
+  background-color: #d6bd2e;
 }
 
 .table__stage--silver {
-  background-color: rgb(99, 99, 99);
+  background-color: #9a9a9a;
 }
 
 .table__stage--bronze {
@@ -118,7 +112,7 @@ h1 {
 }
 
 .table__stage--points {
-  background-color: #4e78af4e;
+  background-color: #c3308126;
 }
 
 .table__points {
@@ -129,6 +123,54 @@ h1 {
   display: inline-block;
   vertical-align: middle;
   height: 2.5em;
+}
+
+.player {
+  overflow: hidden;
+  width: fit-content;
+}
+
+.player::before {
+  border-radius: 3px;
+  content: '';
+  display: inline-block;
+  margin-right: 0.5em;
+  position: relative;
+  top: 0.3em;
+  height: 1.2em;
+  width: 0.5em;
+}
+
+.player--aston-martin::before {
+  background-color: #0c8150;
+}
+
+.player--ferrari::before {
+  background-color: #dc0000;
+}
+
+.player--mclaren::before {
+  background-color: #ff8700;
+}
+
+.player--mercedes::before {
+  background-color: #48f7d4;
+}
+
+.player--redbull::before {
+  background-color: #1f1586;
+}
+
+.player--visa-carb::before {
+  background-color: #0042db;
+}
+
+.player--williams::before {
+  background-color: #0094b6;
+}
+
+.player--kick-sauber::before {
+  background-color: #00fc00;
 }
 
 .table__team::before {
