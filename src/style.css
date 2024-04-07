@@ -192,6 +192,7 @@ body * {
 
 #ferrari::before {
   background-image: url('../assets/ferrari.png');
+  background-size: 120%;
 }
 
 #kick-sauber::before {
@@ -204,10 +205,12 @@ body * {
 
 #mercedes::before {
   background-image: url('../assets/mercedes.png');
+  background-size: 120%;
 }
 
 #redbull::before {
   background-image: url('../assets/redbull.png');
+  background-size: 120%;
 }
 
 #visa-carb::before {
