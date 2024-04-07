@@ -174,7 +174,9 @@ body * {
 }
 
 .table__team::before {
-  background-size: cover;
+  background-position: 50% 50%;
+  background-size: 150%;
+  border-radius: 50%;
   content: '';
   display: inline-block;
   margin-right: 0.5em;
