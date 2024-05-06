@@ -124,7 +124,21 @@ function handleData(data) {
       playersData[i].totalPoints = 0;
     }
   }
-  playersData.sort((a, b) => b.totalPoints - a.totalPoints);
+  playersData.sort((a, b) => {
+    if (a.totalPoints != b.totalPoints) {
+      return b.totalPoints - a.totalPoints;
+    } else {
+      for (let i of Array.from(Array(10).keys())) {
+        if (
+          a.points.reduce((a, b) => a + b) != b.points.reduce((a, b) => a + b)
+        ) {
+          return (
+            a.points.reduce((a, b) => a + b) - b.points.reduce((a, b) => a + b)
+          );
+        }
+      }
+    }
+  });
 
   return playersData;
 }
