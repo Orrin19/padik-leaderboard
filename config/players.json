@@ -3,82 +3,82 @@
     {
       "name": "AstraRus",
       "team": "Mercedes",
-      "positions": [12, 11, 12, 12, 13]
+      "positions": [12, 11, 12, 12, 13, 15]
     },
     {
       "name": "Avokado",
       "team": "McLaren",
-      "positions": [14, 16, 13, 10, 3]
+      "positions": [14, 16, 13, 10, 3, 14]
     },
     {
       "name": "BeHa",
       "team": "Ferrari",
-      "positions": [3, 2, 7, 5, 5]
+      "positions": [3, 2, 7, 5, 5, 7]
     },
     {
       "name": "Bublick",
       "team": "Visa-CARB",
-      "positions": [1, 4, 4, 3, 1]
+      "positions": [1, 4, 4, 3, 1, 1]
     },
     {
       "name": "Danilus",
       "team": "Aston Martin",
-      "positions": [13, 15, 14, 12, 16]
+      "positions": [13, 15, 14, 12, 16, 16]
     },
     {
       "name": "Forader",
       "team": "Aston Martin",
-      "positions": [4, 1, 15, 8, 9]
+      "positions": [4, 1, 15, 8, 9, 7]
     },
     {
       "name": "Forest",
       "team": "Williams",
-      "positions": [5, 3, 8, 7, 4]
+      "positions": [5, 3, 8, 7, 4, 1]
     },
     {
       "name": "Guenther",
       "team": "Mercedes",
-      "positions": [6, 4, 1, 4, 7]
+      "positions": [6, 4, 1, 4, 7, 3]
     },
     {
       "name": "Keyboard",
       "team": "Kick Sauber",
-      "positions": [16, 13, 4, 14, 10]
+      "positions": [16, 13, 4, 14, 10, 9]
     },
     {
       "name": "nered3v",
       "team": "Kick Sauber",
-      "positions": [7, 8, 3, 5, 8]
+      "positions": [7, 8, 3, 5, 8, 4]
     },
     {
       "name": "onesecxnd",
       "team": "Ferrari",
-      "positions": [2, 6, 6, 1, 6]
+      "positions": [2, 6, 6, 1, 6, 5]
     },
     {
       "name": "Orrin",
       "team": "RedBull",
-      "positions": [8, 7, 2, 2, 2]
+      "positions": [8, 7, 2, 2, 2, 6]
     },
     {
       "name": "quvelix",
       "team": "Visa-CARB",
-      "positions": [9, 8, 10, 9, 10]
+      "positions": [9, 8, 10, 9, 10, 12]
     },
     {
       "name": "takaruuu",
       "team": "RedBull",
-      "positions": [10, 12, 9, 15, 14]
+      "positions": [10, 12, 9, 15, 14, 11]
     },
     {
       "name": "t0mato",
       "team": "McLaren",
-      "positions": [12, 14, 16, 16, 15]
+      "positions": [12, 14, 16, 16, 15, 13]
     },
     {
       "name": "kasaletka",
       "team": "Williams",
-      "positions": [11, 10, 11, 11, 12]
+      "positions": [11, 10, 11, 11, 12, 10]
     }
   ]
 }
