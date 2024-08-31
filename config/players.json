@@ -3,82 +3,82 @@
     {
       "name": "AstraRus",
       "team": "Mercedes",
-      "positions": [12, 11, 12, 12, 13, 15, 9, 16, 3, 12, 5]
+      "positions": [12, 11, 12, 12, 13, 15, 9, 16, 3, 12, 5, 3, 13, 5, 12]
     },
     {
       "name": "Avokado",
       "team": "McLaren",
-      "positions": [14, 16, 13, 10, 3, 14, 2, 7, 6, 7, 3]
+      "positions": [14, 16, 13, 10, 3, 14, 2, 7, 6, 7, 3, 10, 5, 1, 10]
     },
     {
       "name": "BeHa",
       "team": "Ferrari",
-      "positions": [3, 2, 7, 5, 5, 7, 9, 2, 1, 3, 9]
+      "positions": [3, 2, 7, 5, 5, 7, 9, 2, 1, 3, 9, 10, 13, 2, 6]
     },
     {
       "name": "Bublick",
       "team": "Visa-CARB",
-      "positions": [1, 4, 4, 3, 1, 1, 4, 11, 7, 5, 8]
+      "positions": [1, 4, 4, 3, 1, 1, 4, 11, 7, 5, 8, 15, 2, 16, 4]
     },
     {
       "name": "Danilus",
       "team": "Aston Martin",
-      "positions": [13, 15, 14, 12, 16, 16, 13, 14, 8, 16, 12]
+      "positions": [13, 15, 14, 12, 16, 16, 13, 14, 8, 16, 12, 5, 11, 11, 8]
     },
     {
       "name": "Forader",
       "team": "Aston Martin",
-      "positions": [4, 1, 15, 8, 9, 7, 15, 13, 16, 11, 11]
+      "positions": [4, 1, 15, 8, 9, 7, 15, 13, 16, 11, 11, 16, 12, 10, 14]
     },
     {
       "name": "Forest",
       "team": "Williams",
-      "positions": [5, 3, 8, 7, 4, 1, 6, 8, 2, 5, 14]
+      "positions": [5, 3, 8, 7, 4, 1, 6, 8, 2, 5, 14, 2, 4, 4, 12]
     },
     {
       "name": "Guenther",
       "team": "Mercedes",
-      "positions": [6, 4, 1, 4, 7, 3, 5, 10, 4, 4, 1]
+      "positions": [6, 4, 1, 4, 7, 3, 5, 10, 4, 4, 1, 1, 3, 15, 3]
     },
     {
       "name": "Keyboard",
       "team": "Kick Sauber",
-      "positions": [16, 13, 4, 14, 10, 9, 7, 5, 13, 10, 10]
+      "positions": [16, 13, 4, 14, 10, 9, 7, 5, 13, 10, 10, 8, 7, 13, 5]
     },
     {
       "name": "nered3v",
       "team": "Kick Sauber",
-      "positions": [7, 8, 3, 5, 8, 4, 12, 4, 9, 1, 13]
+      "positions": [7, 8, 3, 5, 8, 4, 12, 4, 9, 1, 13, 7, 1, 14, 9]
     },
     {
       "name": "onesecxnd",
       "team": "Ferrari",
-      "positions": [2, 6, 6, 1, 6, 5, 7, 6, 14, 13, 7]
+      "positions": [2, 6, 6, 1, 6, 5, 7, 6, 14, 13, 7, 8, 8, 9, 6]
     },
     {
       "name": "Orrin",
       "team": "RedBull",
-      "positions": [8, 7, 2, 2, 2, 6, 1, 3, 12, 8, 4]
+      "positions": [8, 7, 2, 2, 2, 6, 1, 3, 12, 8, 4, 6, 10, 5, 1]
     },
     {
       "name": "quvelix",
       "team": "Visa-CARB",
-      "positions": [9, 8, 10, 9, 10, 12, 13, 12, 15, 2, 5]
+      "positions": [9, 8, 10, 9, 10, 12, 13, 12, 15, 2, 5, 12, 9, 8, 2]
     },
     {
       "name": "takaruuu",
       "team": "RedBull",
-      "positions": [10, 12, 9, 15, 14, 11, 9, 15, 5, 9, 15]
+      "positions": [10, 12, 9, 15, 14, 11, 9, 15, 5, 9, 15, 14, 16, 3, 14]
     },
     {
       "name": "t0mato",
       "team": "McLaren",
-      "positions": [12, 14, 16, 16, 15, 13, 16, 9, 10, 15, 16]
+      "positions": [12, 14, 16, 16, 15, 13, 16, 9, 10, 15, 16, 4, 15, 7, 16]
     },
     {
       "name": "kasaletka",
       "team": "Williams",
-      "positions": [11, 10, 11, 11, 12, 10, 3, 1, 11, 14, 2]
+      "positions": [11, 10, 11, 11, 12, 10, 3, 1, 11, 14, 2, 13, 6, 11, 11]
     }
   ]
 }
